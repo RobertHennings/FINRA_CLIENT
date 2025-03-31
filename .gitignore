@@ -3,5 +3,6 @@ config.py
 credentials.json
 # Python related stuff
 __pycache__
-# Max related stuff
-.DS_Storefinra_client/master_df_single_txt_files.csv
+# Mac related stuff
+.DS_Store
+finra_client/master_df_single_txt_files.csv
