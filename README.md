@@ -1,6 +1,6 @@
 # Finra Client API
 <p align="center">
-  <img src="https://github.com/RobertHennings/FINRA_CLIENT/tree/master/finra_client/src/Logo/FINRA_Logo.jpeg" 
+  <img src="https://raw.githubusercontent.com/RobertHennings/FINRA_CLIENT/master/finra_client/src/Logo/FINRA_Logo.jpeg" 
        width="400"/>
 </p>
 
@@ -31,6 +31,10 @@ For details on the authorization see, the [Official documentation](https://devel
 `pip install finra_client`
 <br>or:</br>
 `pip3 install finra_client`
+
+Via git clone:
+`git clone https://github.com/RobertHennings/FINRA_CLIENT`
+
 # Setting up the personal Finra API in the Finra (Web) platform and obtain client id and client secret
 In theory valid credentials are not needed for API calls, but some datasets exhibit access restrictions.
 To also load these ones, credentials are needed.
@@ -42,28 +46,28 @@ The section in the official documentation shows how to get there:
 - 3. Create an Account (Individual use) here: https://ews.finra.org/auth/registration-type?AppName=FINRA_GATEWAY&Forward_URL=https://gateway.finra.org/app?rcpRedirNum=1
 - 4. Head to the API Console Tab and click: "ADD API CREDENTIAL":
     <p align="center">
-        <img src="https://github.com/RobertHennings/FINRA_CLIENT/tree/master/finra_client/src/Installation/API_Console.png"
+        <img src="https://github.com/RobertHennings/FINRA_CLIENT/master/finra_client/src/Installation/API_Console.png"
             width="800"/>
     </p>
 - 5. Apply user settings to the API (name) and the selected type. The available dropdown types depend in the Account type, i.e. am individual account hat the options: "MOCK" or "PUBLIC".
 <strong>Select: PUBLIC</strong>
     <p align="center">
-     <img src="https://github.com/RobertHennings/FINRA_CLIENT/tree/master/finra_client/src/Installation/API_Setup.png"
+     <img src="https://raw.githubusercontent.com/RobertHennings/FINRA_CLIENT/master/finra_client/src/Installation/API_Setup.png"
           width="500"/>
     </p>
 - 6. The user account will receive an Email with the request to activate the API:
     <p align="center">
-        <img src="https://github.com/RobertHennings/FINRA_CLIENT/tree/master/finra_client/src/Installation/API_Overview.png"
+        <img src="https://raw.githubusercontent.com/RobertHennings/FINRA_CLIENT/master/finra_client/src/Installation/API_Overview.png"
             width="500"/>
     </p>
     In case you wonder, yes indeed it is the same window that opens up when you click "Forgot Password" when trying to login. Here you have to be careful and fill in the field User ID the ID of the just created API and set the Password for it:
     <p align="center">
-        <img src="https://github.com/RobertHennings/FINRA_CLIENT/tree/master/finra_client/src/Installation/API_Activation_Email.png"
+        <img src="https://raw.githubusercontent.com/RobertHennings/FINRA_CLIENT/master/finra_client/src/Installation/API_Activation_Email.png"
             width="500"/>
     </p>
 - 7. After successfull setup, the activated API should be visible:
     <p align="center">
-        <img src="https://github.com/RobertHennings/FINRA_CLIENT/tree/master/finra_client/src/Installation/API_Activated.png"
+        <img src="https://raw.githubusercontent.com/RobertHennings/FINRA_CLIENT/master/finra_client/src/Installation/API_Activated.png"
             width="500"/>
     </p>
 Some API Credential Creation Tips from the [Finra documentation](https://developer.finra.org/docs#getting_started-the_api_console):
