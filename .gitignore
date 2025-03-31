@@ -1,0 +1,7 @@
+# Project related stuff
+config.py
+credentials.json
+# Python related stuff
+__pycache__
+# Max related stuff
+.DS_Storefinra_client/master_df_single_txt_files.csv
