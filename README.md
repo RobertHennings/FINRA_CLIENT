@@ -1,6 +1,6 @@
 # Finra Client API
 <p align="center">
-  <img src="https://mms.businesswire.com/media/20210630005697/en/888849/5/FINRA_Logo_RGB.jpg?download=1" 
+  <img src="https://github.com/RobertHennings/FINRA_CLIENT/tree/master/finra_client/src/Logo/FINRA_Logo.jpeg" 
        width="400"/>
 </p>
 
@@ -42,28 +42,28 @@ The section in the official documentation shows how to get there:
 - 3. Create an Account (Individual use) here: https://ews.finra.org/auth/registration-type?AppName=FINRA_GATEWAY&Forward_URL=https://gateway.finra.org/app?rcpRedirNum=1
 - 4. Head to the API Console Tab and click: "ADD API CREDENTIAL":
     <p align="center">
-        <img src="/Users/Robert_Hennings/Dokumente/IT Weiterbildung/Python Data Analysis /AbbeV/Meine Projekte/FINRA_CLIENT/finra_client/src/Installation/API_Console.png"
+        <img src="https://github.com/RobertHennings/FINRA_CLIENT/tree/master/finra_client/src/Installation/API_Console.png"
             width="800"/>
     </p>
 - 5. Apply user settings to the API (name) and the selected type. The available dropdown types depend in the Account type, i.e. am individual account hat the options: "MOCK" or "PUBLIC".
 <strong>Select: PUBLIC</strong>
     <p align="center">
-     <img src="/Users/Robert_Hennings/Dokumente/IT Weiterbildung/Python Data Analysis /AbbeV/Meine Projekte/FINRA_CLIENT/finra_client/src/Installation/API_Setup.png"
+     <img src="https://github.com/RobertHennings/FINRA_CLIENT/tree/master/finra_client/src/Installation/API_Setup.png"
           width="500"/>
     </p>
 - 6. The user account will receive an Email with the request to activate the API:
     <p align="center">
-        <img src="/Users/Robert_Hennings/Dokumente/IT Weiterbildung/Python Data Analysis /AbbeV/Meine Projekte/FINRA_CLIENT/finra_client/src/Installation/API_Overview.png"
+        <img src="https://github.com/RobertHennings/FINRA_CLIENT/tree/master/finra_client/src/Installation/API_Overview.png"
             width="500"/>
     </p>
     In case you wonder, yes indeed it is the same window that opens up when you click "Forgot Password" when trying to login. Here you have to be careful and fill in the field User ID the ID of the just created API and set the Password for it:
     <p align="center">
-        <img src="/Users/Robert_Hennings/Dokumente/IT Weiterbildung/Python Data Analysis /AbbeV/Meine Projekte/FINRA_CLIENT/finra_client/src/Installation/API_Activation_Email.png"
+        <img src="https://github.com/RobertHennings/FINRA_CLIENT/tree/master/finra_client/src/Installation/API_Activation_Email.png"
             width="500"/>
     </p>
 - 7. After successfull setup, the activated API should be visible:
     <p align="center">
-        <img src="/Users/Robert_Hennings/Dokumente/IT Weiterbildung/Python Data Analysis /AbbeV/Meine Projekte/FINRA_CLIENT/finra_client/src/Installation/API_Activated.png"
+        <img src="https://github.com/RobertHennings/FINRA_CLIENT/tree/master/finra_client/src/Installation/API_Activated.png"
             width="500"/>
     </p>
 Some API Credential Creation Tips from the [Finra documentation](https://developer.finra.org/docs#getting_started-the_api_console):
