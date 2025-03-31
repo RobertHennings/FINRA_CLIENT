@@ -1,0 +1,1001 @@
+,totalVolume,totalTransactions,totalTrades,tradeReportDate,tradeType,productCategory
+0,11352.31201,9874,2254,2022-12-14,all securities,all securities
+1,4557.79724,2796,1527,2022-12-14,all securities,customer buy
+2,4294.27912,3019,1395,2022-12-14,all securities,customer sell
+3,240.89617,249,220,2022-12-14,all securities,affiliate buy
+4,297.15449,414,363,2022-12-14,all securities,affiliate sell
+5,1962.18496,3396,1308,2022-12-14,all securities,inter-dealer
+6,3060.68187,2368,804,2022-12-14,investment grade,all securities
+7,1313.42867,689,479,2022-12-14,investment grade,customer buy
+8,931.78806,544,354,2022-12-14,investment grade,customer sell
+9,127.929,88,80,2022-12-14,investment grade,affiliate buy
+10,125.56375,134,123,2022-12-14,investment grade,affiliate sell
+11,561.9724,913,436,2022-12-14,investment grade,inter-dealer
+12,7194.8923,6469,1321,2022-12-14,high yield,all securities
+13,3019.98161,1973,979,2022-12-14,high yield,customer buy
+14,2796.88321,1932,938,2022-12-14,high yield,customer sell
+15,108.46717,158,137,2022-12-14,high yield,affiliate buy
+16,169.49075,276,236,2022-12-14,high yield,affiliate sell
+17,1100.06956,2130,815,2022-12-14,high yield,inter-dealer
+18,374.913,216,56,2022-12-14,convertible bonds,all securities
+19,163.763,89,39,2022-12-14,convertible bonds,customer buy
+20,193.785,108,46,2022-12-14,convertible bonds,customer sell
+21,4.5,3,3,2022-12-14,convertible bonds,affiliate buy
+22,2.1,4,4,2022-12-14,convertible bonds,affiliate sell
+23,10.765,12,10,2022-12-14,convertible bonds,inter-dealer
+24,0.0,0,0,2022-12-14,church bonds,all securities
+25,0.0,0,0,2022-12-14,church bonds,customer buy
+26,0.0,0,0,2022-12-14,church bonds,customer sell
+27,0.0,0,0,2022-12-14,church bonds,affiliate buy
+28,0.0,0,0,2022-12-14,church bonds,affiliate sell
+29,0.0,0,0,2022-12-14,church bonds,inter-dealer
+30,0.0,0,0,2022-12-14,equity linked notes,all securities
+31,0.0,0,0,2022-12-14,equity linked notes,customer buy
+32,0.0,0,0,2022-12-14,equity linked notes,customer sell
+33,0.0,0,0,2022-12-14,equity linked notes,affiliate buy
+34,0.0,0,0,2022-12-14,equity linked notes,affiliate sell
+35,0.0,0,0,2022-12-14,equity linked notes,inter-dealer
+36,10083.3306,10252,2313,2022-12-15,all securities,all securities
+37,3883.64552,2866,1521,2022-12-15,all securities,customer buy
+38,4271.52329,3627,1612,2022-12-15,all securities,customer sell
+39,217.06076,192,178,2022-12-15,all securities,affiliate buy
+40,297.59355,391,340,2022-12-15,all securities,affiliate sell
+41,1413.50749,3176,1263,2022-12-15,all securities,inter-dealer
+42,3088.50965,2403,780,2022-12-15,investment grade,all securities
+43,1037.76882,605,424,2022-12-15,investment grade,customer buy
+44,1244.50056,750,417,2022-12-15,investment grade,customer sell
+45,93.71828,87,82,2022-12-15,investment grade,affiliate buy
+46,169.6935,136,112,2022-12-15,investment grade,affiliate sell
+47,542.8285,825,380,2022-12-15,investment grade,inter-dealer
+48,5908.99416,6529,1386,2022-12-15,high yield,all securities
+49,2348.86584,1962,1004,2022-12-15,high yield,customer buy
+50,2598.0638,2287,1085,2022-12-15,high yield,customer sell
+51,123.29248,104,95,2022-12-15,high yield,affiliate buy
+52,115.45005,248,221,2022-12-15,high yield,affiliate sell
+53,723.32199,1928,822,2022-12-15,high yield,inter-dealer
+54,411.779,178,56,2022-12-15,convertible bonds,all securities
+55,213.056,86,46,2022-12-15,convertible bonds,customer buy
+56,172.578,69,41,2022-12-15,convertible bonds,customer sell
+57,0.0,0,0,2022-12-15,convertible bonds,affiliate buy
+58,7.0,5,5,2022-12-15,convertible bonds,affiliate sell
+59,19.145,18,12,2022-12-15,convertible bonds,inter-dealer
+60,0.0,0,0,2022-12-15,church bonds,all securities
+61,0.0,0,0,2022-12-15,church bonds,customer buy
+62,0.0,0,0,2022-12-15,church bonds,customer sell
+63,0.0,0,0,2022-12-15,church bonds,affiliate buy
+64,0.0,0,0,2022-12-15,church bonds,affiliate sell
+65,0.0,0,0,2022-12-15,church bonds,inter-dealer
+66,0.0,0,0,2022-12-15,equity linked notes,all securities
+67,0.0,0,0,2022-12-15,equity linked notes,customer buy
+68,0.0,0,0,2022-12-15,equity linked notes,customer sell
+69,0.0,0,0,2022-12-15,equity linked notes,affiliate buy
+70,0.0,0,0,2022-12-15,equity linked notes,affiliate sell
+71,0.0,0,0,2022-12-15,equity linked notes,inter-dealer
+72,7618.50412,8569,2197,2022-12-16,all securities,all securities
+73,2714.35598,2699,1469,2022-12-16,all securities,customer buy
+74,3274.53353,2769,1446,2022-12-16,all securities,customer sell
+75,210.25475,387,367,2022-12-16,all securities,affiliate buy
+76,244.10439,278,251,2022-12-16,all securities,affiliate sell
+77,1175.25547,2436,1030,2022-12-16,all securities,inter-dealer
+78,2286.45024,2015,715,2022-12-16,investment grade,all securities
+79,729.02379,427,311,2022-12-16,investment grade,customer buy
+80,863.45999,676,443,2022-12-16,investment grade,customer sell
+81,72.658,74,71,2022-12-16,investment grade,affiliate buy
+82,114.197,114,102,2022-12-16,investment grade,affiliate sell
+83,507.11147,724,360,2022-12-16,investment grade,inter-dealer
+84,4421.8108,5500,1358,2022-12-16,high yield,all securities
+85,1707.87614,2071,1078,2022-12-16,high yield,customer buy
+86,1930.54452,1671,898,2022-12-16,high yield,customer sell
+87,110.38575,311,294,2022-12-16,high yield,affiliate buy
+88,123.97239,157,144,2022-12-16,high yield,affiliate sell
+89,549.032,1290,612,2022-12-16,high yield,inter-dealer
+90,393.612,225,49,2022-12-16,convertible bonds,all securities
+91,171.856,104,40,2022-12-16,convertible bonds,customer buy
+92,197.239,94,43,2022-12-16,convertible bonds,customer sell
+93,2.211,1,1,2022-12-16,convertible bonds,affiliate buy
+94,5.915,6,4,2022-12-16,convertible bonds,affiliate sell
+95,16.391,20,13,2022-12-16,convertible bonds,inter-dealer
+96,0.0,0,0,2022-12-16,church bonds,all securities
+97,0.0,0,0,2022-12-16,church bonds,customer buy
+98,0.0,0,0,2022-12-16,church bonds,customer sell
+99,0.0,0,0,2022-12-16,church bonds,affiliate buy
+100,0.0,0,0,2022-12-16,church bonds,affiliate sell
+101,0.0,0,0,2022-12-16,church bonds,inter-dealer
+102,0.0,0,0,2022-12-16,equity linked notes,all securities
+103,0.0,0,0,2022-12-16,equity linked notes,customer buy
+104,0.0,0,0,2022-12-16,equity linked notes,customer sell
+105,0.0,0,0,2022-12-16,equity linked notes,affiliate buy
+106,0.0,0,0,2022-12-16,equity linked notes,affiliate sell
+107,0.0,0,0,2022-12-16,equity linked notes,inter-dealer
+108,7529.20602,9620,2255,2022-12-19,all securities,all securities
+109,2638.17637,2513,1546,2022-12-19,all securities,customer buy
+110,3121.1991,3324,1525,2022-12-19,all securities,customer sell
+111,168.40413,171,150,2022-12-19,all securities,affiliate buy
+112,149.45179,279,260,2022-12-19,all securities,affiliate sell
+113,1451.97464,3333,1257,2022-12-19,all securities,inter-dealer
+114,2371.49058,2187,787,2022-12-19,investment grade,all securities
+115,860.79,715,500,2022-12-19,investment grade,customer buy
+116,886.7959,559,373,2022-12-19,investment grade,customer sell
+117,77.228,61,55,2022-12-19,investment grade,affiliate buy
+118,50.888,89,86,2022-12-19,investment grade,affiliate sell
+119,495.78869,763,381,2022-12-19,investment grade,inter-dealer
+120,4699.89426,6550,1346,2022-12-19,high yield,all securities
+121,1635.7436,1690,982,2022-12-19,high yield,customer buy
+122,2005.81709,2356,1057,2022-12-19,high yield,customer sell
+123,70.77613,99,85,2022-12-19,high yield,affiliate buy
+124,97.40179,186,171,2022-12-19,high yield,affiliate sell
+125,890.15565,2219,821,2022-12-19,high yield,inter-dealer
+126,262.254,145,55,2022-12-19,convertible bonds,all securities
+127,107.737,61,39,2022-12-19,convertible bonds,customer buy
+128,129.471,58,37,2022-12-19,convertible bonds,customer sell
+129,20.4,11,10,2022-12-19,convertible bonds,affiliate buy
+130,1.162,4,3,2022-12-19,convertible bonds,affiliate sell
+131,3.484,11,11,2022-12-19,convertible bonds,inter-dealer
+132,0.0,0,0,2022-12-19,church bonds,all securities
+133,0.0,0,0,2022-12-19,church bonds,customer buy
+134,0.0,0,0,2022-12-19,church bonds,customer sell
+135,0.0,0,0,2022-12-19,church bonds,affiliate buy
+136,0.0,0,0,2022-12-19,church bonds,affiliate sell
+137,0.0,0,0,2022-12-19,church bonds,inter-dealer
+138,0.03058,2,1,2022-12-19,equity linked notes,all securities
+139,0.01528,1,1,2022-12-19,equity linked notes,customer buy
+140,0.0,0,0,2022-12-19,equity linked notes,customer sell
+141,0.0,0,0,2022-12-19,equity linked notes,affiliate buy
+142,0.0,0,0,2022-12-19,equity linked notes,affiliate sell
+143,0.0153,1,1,2022-12-19,equity linked notes,inter-dealer
+144,9858.6489,8795,2218,2022-12-20,all securities,all securities
+145,3798.75919,2348,1421,2022-12-20,all securities,customer buy
+146,4096.15383,2926,1409,2022-12-20,all securities,customer sell
+147,152.76244,156,145,2022-12-20,all securities,affiliate buy
+148,167.0676,222,205,2022-12-20,all securities,affiliate sell
+149,1643.90584,3143,1272,2022-12-20,all securities,inter-dealer
+150,2847.82016,2548,797,2022-12-20,investment grade,all securities
+151,1046.18107,732,486,2022-12-20,investment grade,customer buy
+152,904.04569,507,324,2022-12-20,investment grade,customer sell
+153,74.734,75,70,2022-12-20,investment grade,affiliate buy
+154,101.999,113,98,2022-12-20,investment grade,affiliate sell
+155,720.86039,1121,534,2022-12-20,investment grade,inter-dealer
+156,6122.35777,5273,1304,2022-12-20,high yield,all securities
+157,2408.37903,1456,856,2022-12-20,high yield,customer buy
+158,2792.10726,1955,991,2022-12-20,high yield,customer sell
+159,78.02844,81,75,2022-12-20,high yield,affiliate buy
+160,59.9686,103,101,2022-12-20,high yield,affiliate sell
+161,783.87445,1678,689,2022-12-20,high yield,inter-dealer
+162,354.7805,214,57,2022-12-20,convertible bonds,all securities
+163,177.774,98,47,2022-12-20,convertible bonds,customer buy
+164,160.4625,89,44,2022-12-20,convertible bonds,customer sell
+165,0.0,0,0,2022-12-20,convertible bonds,affiliate buy
+166,5.1,6,6,2022-12-20,convertible bonds,affiliate sell
+167,11.444,21,14,2022-12-20,convertible bonds,inter-dealer
+168,0.0,0,0,2022-12-20,church bonds,all securities
+169,0.0,0,0,2022-12-20,church bonds,customer buy
+170,0.0,0,0,2022-12-20,church bonds,customer sell
+171,0.0,0,0,2022-12-20,church bonds,affiliate buy
+172,0.0,0,0,2022-12-20,church bonds,affiliate sell
+173,0.0,0,0,2022-12-20,church bonds,inter-dealer
+174,0.0,0,0,2022-12-20,equity linked notes,all securities
+175,0.0,0,0,2022-12-20,equity linked notes,customer buy
+176,0.0,0,0,2022-12-20,equity linked notes,customer sell
+177,0.0,0,0,2022-12-20,equity linked notes,affiliate buy
+178,0.0,0,0,2022-12-20,equity linked notes,affiliate sell
+179,0.0,0,0,2022-12-20,equity linked notes,inter-dealer
+180,7578.81598,9221,2198,2022-12-21,all securities,all securities
+181,2975.0309,2803,1518,2022-12-21,all securities,customer buy
+182,2755.72581,2589,1234,2022-12-21,all securities,customer sell
+183,147.23852,491,427,2022-12-21,all securities,affiliate buy
+184,148.983,221,201,2022-12-21,all securities,affiliate sell
+185,1551.83776,3117,1139,2022-12-21,all securities,inter-dealer
+186,2454.40857,2105,768,2022-12-21,investment grade,all securities
+187,759.515,574,422,2022-12-21,investment grade,customer buy
+188,996.83638,524,368,2022-12-21,investment grade,customer sell
+189,66.75243,49,43,2022-12-21,investment grade,affiliate buy
+190,81.873,89,79,2022-12-21,investment grade,affiliate sell
+191,549.43176,869,400,2022-12-21,investment grade,inter-dealer
+192,4461.65017,5812,1300,2022-12-21,high yield,all securities
+193,1939.13084,2102,1024,2022-12-21,high yield,customer buy
+194,1450.76225,1495,773,2022-12-21,high yield,customer sell
+195,80.42609,441,383,2022-12-21,high yield,affiliate buy
+196,66.41,130,120,2022-12-21,high yield,affiliate sell
+197,924.921,1644,679,2022-12-21,high yield,inter-dealer
+198,241.599,178,61,2022-12-21,convertible bonds,all securities
+199,121.086,81,46,2022-12-21,convertible bonds,customer buy
+200,107.177,65,37,2022-12-21,convertible bonds,customer sell
+201,0.06,1,1,2022-12-21,convertible bonds,affiliate buy
+202,0.5,1,1,2022-12-21,convertible bonds,affiliate sell
+203,12.776,30,20,2022-12-21,convertible bonds,inter-dealer
+204,0.0,0,0,2022-12-21,church bonds,all securities
+205,0.0,0,0,2022-12-21,church bonds,customer buy
+206,0.0,0,0,2022-12-21,church bonds,customer sell
+207,0.0,0,0,2022-12-21,church bonds,affiliate buy
+208,0.0,0,0,2022-12-21,church bonds,affiliate sell
+209,0.0,0,0,2022-12-21,church bonds,inter-dealer
+210,0.0,0,0,2022-12-21,equity linked notes,all securities
+211,0.0,0,0,2022-12-21,equity linked notes,customer buy
+212,0.0,0,0,2022-12-21,equity linked notes,customer sell
+213,0.0,0,0,2022-12-21,equity linked notes,affiliate buy
+214,0.0,0,0,2022-12-21,equity linked notes,affiliate sell
+215,0.0,0,0,2022-12-21,equity linked notes,inter-dealer
+216,4217.44954,5807,1625,2022-12-22,all securities,all securities
+217,1348.78633,1174,847,2022-12-22,all securities,customer buy
+218,1674.43252,1939,1048,2022-12-22,all securities,customer sell
+219,98.99681,124,118,2022-12-22,all securities,affiliate buy
+220,88.901,135,129,2022-12-22,all securities,affiliate sell
+221,1006.33287,2435,884,2022-12-22,all securities,inter-dealer
+222,1227.98475,1253,492,2022-12-22,investment grade,all securities
+223,362.331,257,207,2022-12-22,investment grade,customer buy
+224,482.302,373,265,2022-12-22,investment grade,customer sell
+225,46.02475,43,39,2022-12-22,investment grade,affiliate buy
+226,40.487,56,54,2022-12-22,investment grade,affiliate sell
+227,296.84,524,259,2022-12-22,investment grade,inter-dealer
+228,2528.10222,3339,1030,2022-12-22,high yield,all securities
+229,861.13705,815,576,2022-12-22,high yield,customer buy
+230,966.00424,1075,710,2022-12-22,high yield,customer sell
+231,52.92206,80,78,2022-12-22,high yield,affiliate buy
+232,45.724,73,69,2022-12-22,high yield,affiliate sell
+233,602.31487,1296,578,2022-12-22,high yield,inter-dealer
+234,199.284,126,45,2022-12-22,convertible bonds,all securities
+235,95.656,68,40,2022-12-22,convertible bonds,customer buy
+236,90.682,38,23,2022-12-22,convertible bonds,customer sell
+237,0.0,0,0,2022-12-22,convertible bonds,affiliate buy
+238,2.64,5,5,2022-12-22,convertible bonds,affiliate sell
+239,10.306,15,8,2022-12-22,convertible bonds,inter-dealer
+240,0.0,0,0,2022-12-22,church bonds,all securities
+241,0.0,0,0,2022-12-22,church bonds,customer buy
+242,0.0,0,0,2022-12-22,church bonds,customer sell
+243,0.0,0,0,2022-12-22,church bonds,affiliate buy
+244,0.0,0,0,2022-12-22,church bonds,affiliate sell
+245,0.0,0,0,2022-12-22,church bonds,inter-dealer
+246,0.0,0,0,2022-12-22,equity linked notes,all securities
+247,0.0,0,0,2022-12-22,equity linked notes,customer buy
+248,0.0,0,0,2022-12-22,equity linked notes,customer sell
+249,0.0,0,0,2022-12-22,equity linked notes,affiliate buy
+250,0.0,0,0,2022-12-22,equity linked notes,affiliate sell
+251,0.0,0,0,2022-12-22,equity linked notes,inter-dealer
+252,1866.04808,3676,1252,2022-12-23,all securities,all securities
+253,646.6586,982,736,2022-12-23,all securities,customer buy
+254,706.04471,1121,714,2022-12-23,all securities,customer sell
+255,21.24145,47,45,2022-12-23,all securities,affiliate buy
+256,38.18716,41,40,2022-12-23,all securities,affiliate sell
+257,453.91615,1485,671,2022-12-23,all securities,inter-dealer
+258,449.46808,595,287,2022-12-23,investment grade,all securities
+259,149.64215,155,133,2022-12-23,investment grade,customer buy
+260,156.20945,144,120,2022-12-23,investment grade,customer sell
+261,9.88745,19,19,2022-12-23,investment grade,affiliate buy
+262,21.966,20,20,2022-12-23,investment grade,affiliate sell
+263,111.76303,257,139,2022-12-23,investment grade,inter-dealer
+264,1234.83947,2568,906,2022-12-23,high yield,all securities
+265,440.11692,788,576,2022-12-23,high yield,customer buy
+266,465.15926,741,549,2022-12-23,high yield,customer sell
+267,11.354,28,26,2022-12-23,high yield,affiliate buy
+268,16.22116,21,20,2022-12-23,high yield,affiliate sell
+269,301.98812,990,504,2022-12-23,high yield,inter-dealer
+270,61.176,34,20,2022-12-23,convertible bonds,all securities
+271,31.914,18,14,2022-12-23,convertible bonds,customer buy
+272,29.258,15,14,2022-12-23,convertible bonds,customer sell
+273,0.0,0,0,2022-12-23,convertible bonds,affiliate buy
+274,0.0,0,0,2022-12-23,convertible bonds,affiliate sell
+275,0.004,1,1,2022-12-23,convertible bonds,inter-dealer
+276,0.0,0,0,2022-12-23,church bonds,all securities
+277,0.0,0,0,2022-12-23,church bonds,customer buy
+278,0.0,0,0,2022-12-23,church bonds,customer sell
+279,0.0,0,0,2022-12-23,church bonds,affiliate buy
+280,0.0,0,0,2022-12-23,church bonds,affiliate sell
+281,0.0,0,0,2022-12-23,church bonds,inter-dealer
+282,0.0,0,0,2022-12-23,equity linked notes,all securities
+283,0.0,0,0,2022-12-23,equity linked notes,customer buy
+284,0.0,0,0,2022-12-23,equity linked notes,customer sell
+285,0.0,0,0,2022-12-23,equity linked notes,affiliate buy
+286,0.0,0,0,2022-12-23,equity linked notes,affiliate sell
+287,0.0,0,0,2022-12-23,equity linked notes,inter-dealer
+288,2482.70479,4893,1463,2022-12-27,all securities,all securities
+289,786.27993,1166,870,2022-12-27,all securities,customer buy
+290,860.23225,1375,683,2022-12-27,all securities,customer sell
+291,24.13543,73,67,2022-12-27,all securities,affiliate buy
+292,31.978,72,64,2022-12-27,all securities,affiliate sell
+293,780.07918,2207,811,2022-12-27,all securities,inter-dealer
+294,830.7083,1075,436,2022-12-27,investment grade,all securities
+295,267.46976,266,209,2022-12-27,investment grade,customer buy
+296,236.46154,239,181,2022-12-27,investment grade,customer sell
+297,15.014,26,22,2022-12-27,investment grade,affiliate buy
+298,19.487,41,36,2022-12-27,investment grade,affiliate sell
+299,292.276,503,249,2022-12-27,investment grade,inter-dealer
+300,1438.64572,2661,948,2022-12-27,high yield,all securities
+301,475.36317,852,622,2022-12-27,high yield,customer buy
+302,526.54193,583,442,2022-12-27,high yield,customer sell
+303,9.12143,47,45,2022-12-27,high yield,affiliate buy
+304,10.441,27,25,2022-12-27,high yield,affiliate sell
+305,417.17818,1152,523,2022-12-27,high yield,inter-dealer
+306,64.238,65,34,2022-12-27,convertible bonds,all securities
+307,32.74,31,24,2022-12-27,convertible bonds,customer buy
+308,25.365,26,22,2022-12-27,convertible bonds,customer sell
+309,0.0,0,0,2022-12-27,convertible bonds,affiliate buy
+310,2.0,2,2,2022-12-27,convertible bonds,affiliate sell
+311,4.133,6,4,2022-12-27,convertible bonds,inter-dealer
+312,0.0,0,0,2022-12-27,church bonds,all securities
+313,0.0,0,0,2022-12-27,church bonds,customer buy
+314,0.0,0,0,2022-12-27,church bonds,customer sell
+315,0.0,0,0,2022-12-27,church bonds,affiliate buy
+316,0.0,0,0,2022-12-27,church bonds,affiliate sell
+317,0.0,0,0,2022-12-27,church bonds,inter-dealer
+318,0.0,0,0,2022-12-27,equity linked notes,all securities
+319,0.0,0,0,2022-12-27,equity linked notes,customer buy
+320,0.0,0,0,2022-12-27,equity linked notes,customer sell
+321,0.0,0,0,2022-12-27,equity linked notes,affiliate buy
+322,0.0,0,0,2022-12-27,equity linked notes,affiliate sell
+323,0.0,0,0,2022-12-27,equity linked notes,inter-dealer
+324,4470.24416,7939,1916,2022-12-28,all securities,all securities
+325,1102.30485,2056,1193,2022-12-28,all securities,customer buy
+326,1578.49503,2437,1288,2022-12-28,all securities,customer sell
+327,77.32028,146,137,2022-12-28,all securities,affiliate buy
+328,47.34,111,104,2022-12-28,all securities,affiliate sell
+329,1664.784,3189,1221,2022-12-28,all securities,inter-dealer
+330,882.83369,1358,557,2022-12-28,investment grade,all securities
+331,296.8975,304,231,2022-12-28,investment grade,customer buy
+332,205.5569,354,275,2022-12-28,investment grade,customer sell
+333,45.60028,51,49,2022-12-28,investment grade,affiliate buy
+334,25.18,66,61,2022-12-28,investment grade,affiliate sell
+335,309.599,583,316,2022-12-28,investment grade,inter-dealer
+336,3239.90848,5686,1281,2022-12-28,high yield,all securities
+337,748.64235,1712,932,2022-12-28,high yield,customer buy
+338,1222.35313,1701,946,2022-12-28,high yield,customer sell
+339,29.52,93,86,2022-12-28,high yield,affiliate buy
+340,17.16,44,42,2022-12-28,high yield,affiliate sell
+341,1222.233,2136,861,2022-12-28,high yield,inter-dealer
+342,100.951,61,33,2022-12-28,convertible bonds,all securities
+343,46.679,22,16,2022-12-28,convertible bonds,customer buy
+344,43.092,34,29,2022-12-28,convertible bonds,customer sell
+345,2.0,1,1,2022-12-28,convertible bonds,affiliate buy
+346,5.0,1,1,2022-12-28,convertible bonds,affiliate sell
+347,4.18,3,3,2022-12-28,convertible bonds,inter-dealer
+348,0.0,0,0,2022-12-28,church bonds,all securities
+349,0.0,0,0,2022-12-28,church bonds,customer buy
+350,0.0,0,0,2022-12-28,church bonds,customer sell
+351,0.0,0,0,2022-12-28,church bonds,affiliate buy
+352,0.0,0,0,2022-12-28,church bonds,affiliate sell
+353,0.0,0,0,2022-12-28,church bonds,inter-dealer
+354,0.0,0,0,2022-12-28,equity linked notes,all securities
+355,0.0,0,0,2022-12-28,equity linked notes,customer buy
+356,0.0,0,0,2022-12-28,equity linked notes,customer sell
+357,0.0,0,0,2022-12-28,equity linked notes,affiliate buy
+358,0.0,0,0,2022-12-28,equity linked notes,affiliate sell
+359,0.0,0,0,2022-12-28,equity linked notes,inter-dealer
+360,4057.49257,7715,1977,2022-12-29,all securities,all securities
+361,922.32427,1765,1161,2022-12-29,all securities,customer buy
+362,1722.09165,2609,1331,2022-12-29,all securities,customer sell
+363,52.6572,104,97,2022-12-29,all securities,affiliate buy
+364,68.8117,217,210,2022-12-29,all securities,affiliate sell
+365,1291.60775,3020,1205,2022-12-29,all securities,inter-dealer
+366,868.26401,1478,617,2022-12-29,investment grade,all securities
+367,186.62491,310,238,2022-12-29,investment grade,customer buy
+368,356.89391,487,371,2022-12-29,investment grade,customer sell
+369,36.5382,48,45,2022-12-29,investment grade,affiliate buy
+370,29.4854,59,57,2022-12-29,investment grade,affiliate sell
+371,258.7216,574,327,2022-12-29,investment grade,inter-dealer
+372,2789.52319,5326,1270,2022-12-29,high yield,all securities
+373,653.27436,1400,879,2022-12-29,high yield,customer buy
+374,1165.15137,1739,890,2022-12-29,high yield,customer sell
+375,16.119,56,52,2022-12-29,high yield,affiliate buy
+376,35.3263,156,151,2022-12-29,high yield,affiliate sell
+377,919.65216,1975,833,2022-12-29,high yield,inter-dealer
+378,98.294,64,31,2022-12-29,convertible bonds,all securities
+379,38.016,26,21,2022-12-29,convertible bonds,customer buy
+380,52.645,29,24,2022-12-29,convertible bonds,customer sell
+381,0.0,0,0,2022-12-29,convertible bonds,affiliate buy
+382,4.0,2,2,2022-12-29,convertible bonds,affiliate sell
+383,3.633,7,5,2022-12-29,convertible bonds,inter-dealer
+384,0.0,0,0,2022-12-29,church bonds,all securities
+385,0.0,0,0,2022-12-29,church bonds,customer buy
+386,0.0,0,0,2022-12-29,church bonds,customer sell
+387,0.0,0,0,2022-12-29,church bonds,affiliate buy
+388,0.0,0,0,2022-12-29,church bonds,affiliate sell
+389,0.0,0,0,2022-12-29,church bonds,inter-dealer
+390,0.0,0,0,2022-12-29,equity linked notes,all securities
+391,0.0,0,0,2022-12-29,equity linked notes,customer buy
+392,0.0,0,0,2022-12-29,equity linked notes,customer sell
+393,0.0,0,0,2022-12-29,equity linked notes,affiliate buy
+394,0.0,0,0,2022-12-29,equity linked notes,affiliate sell
+395,0.0,0,0,2022-12-29,equity linked notes,inter-dealer
+396,2218.92295,5054,1628,2022-12-30,all securities,all securities
+397,709.47532,1279,926,2022-12-30,all securities,customer buy
+398,847.5185,1739,1043,2022-12-30,all securities,customer sell
+399,32.409,77,75,2022-12-30,all securities,affiliate buy
+400,30.66,155,149,2022-12-30,all securities,affiliate sell
+401,598.86014,1804,864,2022-12-30,all securities,inter-dealer
+402,652.00625,1143,481,2022-12-30,investment grade,all securities
+403,172.5795,178,138,2022-12-30,investment grade,customer buy
+404,202.362,365,289,2022-12-30,investment grade,customer sell
+405,16.231,34,33,2022-12-30,investment grade,affiliate buy
+406,10.268,33,31,2022-12-30,investment grade,affiliate sell
+407,250.56575,533,303,2022-12-30,investment grade,inter-dealer
+408,1382.9337,3284,1086,2022-12-30,high yield,all securities
+409,441.30882,1069,765,2022-12-30,high yield,customer buy
+410,586.8275,1127,703,2022-12-30,high yield,customer sell
+411,16.178,43,42,2022-12-30,high yield,affiliate buy
+412,20.392,122,118,2022-12-30,high yield,affiliate sell
+413,318.22739,923,521,2022-12-30,high yield,inter-dealer
+414,77.007,43,19,2022-12-30,convertible bonds,all securities
+415,39.959,17,10,2022-12-30,convertible bonds,customer buy
+416,36.739,24,18,2022-12-30,convertible bonds,customer sell
+417,0.0,0,0,2022-12-30,convertible bonds,affiliate buy
+418,0.0,0,0,2022-12-30,convertible bonds,affiliate sell
+419,0.309,2,2,2022-12-30,convertible bonds,inter-dealer
+420,0.0,0,0,2022-12-30,church bonds,all securities
+421,0.0,0,0,2022-12-30,church bonds,customer buy
+422,0.0,0,0,2022-12-30,church bonds,customer sell
+423,0.0,0,0,2022-12-30,church bonds,affiliate buy
+424,0.0,0,0,2022-12-30,church bonds,affiliate sell
+425,0.0,0,0,2022-12-30,church bonds,inter-dealer
+426,0.0,0,0,2022-12-30,equity linked notes,all securities
+427,0.0,0,0,2022-12-30,equity linked notes,customer buy
+428,0.0,0,0,2022-12-30,equity linked notes,customer sell
+429,0.0,0,0,2022-12-30,equity linked notes,affiliate buy
+430,0.0,0,0,2022-12-30,equity linked notes,affiliate sell
+431,0.0,0,0,2022-12-30,equity linked notes,inter-dealer
+432,8356.32639,10383,2310,2023-01-03,all securities,all securities
+433,3423.42171,3175,1615,2023-01-03,all securities,customer buy
+434,3046.03979,3166,1549,2023-01-03,all securities,customer sell
+435,202.04926,246,223,2023-01-03,all securities,affiliate buy
+436,265.80303,324,296,2023-01-03,all securities,affiliate sell
+437,1419.01259,3472,1302,2023-01-03,all securities,inter-dealer
+438,2643.07659,2364,793,2023-01-03,investment grade,all securities
+439,1139.74964,583,414,2023-01-03,investment grade,customer buy
+440,825.30907,733,480,2023-01-03,investment grade,customer sell
+441,95.20272,75,71,2023-01-03,investment grade,affiliate buy
+442,140.415,123,113,2023-01-03,investment grade,affiliate sell
+443,442.40015,850,409,2023-01-03,investment grade,inter-dealer
+444,5095.31778,6756,1377,2023-01-03,high yield,all securities
+445,2037.46691,2447,1129,2023-01-03,high yield,customer buy
+446,1920.39503,1937,958,2023-01-03,high yield,customer sell
+447,106.24653,169,150,2023-01-03,high yield,affiliate buy
+448,122.63403,195,177,2023-01-03,high yield,affiliate sell
+449,908.57527,2008,825,2023-01-03,high yield,inter-dealer
+450,426.43,171,61,2023-01-03,convertible bonds,all securities
+451,203.343,70,40,2023-01-03,convertible bonds,customer buy
+452,212.395,87,47,2023-01-03,convertible bonds,customer sell
+453,0.5,1,1,2023-01-03,convertible bonds,affiliate buy
+454,2.654,5,5,2023-01-03,convertible bonds,affiliate sell
+455,7.538,8,7,2023-01-03,convertible bonds,inter-dealer
+456,0.0,0,0,2023-01-03,church bonds,all securities
+457,0.0,0,0,2023-01-03,church bonds,customer buy
+458,0.0,0,0,2023-01-03,church bonds,customer sell
+459,0.0,0,0,2023-01-03,church bonds,affiliate buy
+460,0.0,0,0,2023-01-03,church bonds,affiliate sell
+461,0.0,0,0,2023-01-03,church bonds,inter-dealer
+462,0.0,0,0,2023-01-03,equity linked notes,all securities
+463,0.0,0,0,2023-01-03,equity linked notes,customer buy
+464,0.0,0,0,2023-01-03,equity linked notes,customer sell
+465,0.0,0,0,2023-01-03,equity linked notes,affiliate buy
+466,0.0,0,0,2023-01-03,equity linked notes,affiliate sell
+467,0.0,0,0,2023-01-03,equity linked notes,inter-dealer
+468,13626.34539,11779,2439,2023-01-04,all securities,all securities
+469,5726.40797,3250,1626,2023-01-04,all securities,customer buy
+470,4791.63533,4020,1683,2023-01-04,all securities,customer sell
+471,310.56071,267,232,2023-01-04,all securities,affiliate buy
+472,620.39818,295,253,2023-01-04,all securities,affiliate sell
+473,2177.34321,3947,1314,2023-01-04,all securities,inter-dealer
+474,3745.43764,2585,879,2023-01-04,investment grade,all securities
+475,1617.41116,804,516,2023-01-04,investment grade,customer buy
+476,1190.64241,732,474,2023-01-04,investment grade,customer sell
+477,118.76783,79,78,2023-01-04,investment grade,affiliate buy
+478,220.584,120,105,2023-01-04,investment grade,affiliate sell
+479,598.03224,850,383,2023-01-04,investment grade,inter-dealer
+480,8914.65032,7594,1415,2023-01-04,high yield,all securities
+481,3774.92614,2280,1023,2023-01-04,high yield,customer buy
+482,3142.73363,2449,1085,2023-01-04,high yield,customer sell
+483,191.19788,187,153,2023-01-04,high yield,affiliate buy
+484,398.81418,173,146,2023-01-04,high yield,affiliate sell
+485,1406.9785,2505,863,2023-01-04,high yield,inter-dealer
+486,393.115,194,52,2023-01-04,convertible bonds,all securities
+487,187.007,74,41,2023-01-04,convertible bonds,customer buy
+488,186.053,97,44,2023-01-04,convertible bonds,customer sell
+489,0.0,0,0,2023-01-04,convertible bonds,affiliate buy
+490,1.0,2,2,2023-01-04,convertible bonds,affiliate sell
+491,19.055,21,12,2023-01-04,convertible bonds,inter-dealer
+492,0.0,0,0,2023-01-04,church bonds,all securities
+493,0.0,0,0,2023-01-04,church bonds,customer buy
+494,0.0,0,0,2023-01-04,church bonds,customer sell
+495,0.0,0,0,2023-01-04,church bonds,affiliate buy
+496,0.0,0,0,2023-01-04,church bonds,affiliate sell
+497,0.0,0,0,2023-01-04,church bonds,inter-dealer
+498,0.0,0,0,2023-01-04,equity linked notes,all securities
+499,0.0,0,0,2023-01-04,equity linked notes,customer buy
+500,0.0,0,0,2023-01-04,equity linked notes,customer sell
+501,0.0,0,0,2023-01-04,equity linked notes,affiliate buy
+502,0.0,0,0,2023-01-04,equity linked notes,affiliate sell
+503,0.0,0,0,2023-01-04,equity linked notes,inter-dealer
+504,11517.97617,11968,2361,2023-01-05,all securities,all securities
+505,4636.55176,2762,1498,2023-01-05,all securities,customer buy
+506,4099.49794,4399,1754,2023-01-05,all securities,customer sell
+507,210.65517,220,197,2023-01-05,all securities,affiliate buy
+508,515.729,267,221,2023-01-05,all securities,affiliate sell
+509,2055.5423,4320,1432,2023-01-05,all securities,inter-dealer
+510,3881.47144,2781,881,2023-01-05,investment grade,all securities
+511,1593.23025,728,477,2023-01-05,investment grade,customer buy
+512,1158.03513,769,498,2023-01-05,investment grade,customer sell
+513,116.736,100,89,2023-01-05,investment grade,affiliate buy
+514,299.879,140,112,2023-01-05,investment grade,affiliate sell
+515,713.59105,1044,470,2023-01-05,investment grade,inter-dealer
+516,6712.60681,7505,1366,2023-01-05,high yield,all securities
+517,2618.82401,1900,951,2023-01-05,high yield,customer buy
+518,2541.16538,2746,1155,2023-01-05,high yield,customer sell
+519,82.91917,118,106,2023-01-05,high yield,affiliate buy
+520,209.95,124,106,2023-01-05,high yield,affiliate sell
+521,1259.74825,2617,923,2023-01-05,high yield,inter-dealer
+522,573.146,219,54,2023-01-05,convertible bonds,all securities
+523,328.23,109,49,2023-01-05,convertible bonds,customer buy
+524,220.236,92,46,2023-01-05,convertible bonds,customer sell
+525,6.0,1,1,2023-01-05,convertible bonds,affiliate buy
+526,5.9,3,3,2023-01-05,convertible bonds,affiliate sell
+527,12.78,14,11,2023-01-05,convertible bonds,inter-dealer
+528,0.0,0,0,2023-01-05,church bonds,all securities
+529,0.0,0,0,2023-01-05,church bonds,customer buy
+530,0.0,0,0,2023-01-05,church bonds,customer sell
+531,0.0,0,0,2023-01-05,church bonds,affiliate buy
+532,0.0,0,0,2023-01-05,church bonds,affiliate sell
+533,0.0,0,0,2023-01-05,church bonds,inter-dealer
+534,0.0,0,0,2023-01-05,equity linked notes,all securities
+535,0.0,0,0,2023-01-05,equity linked notes,customer buy
+536,0.0,0,0,2023-01-05,equity linked notes,customer sell
+537,0.0,0,0,2023-01-05,equity linked notes,affiliate buy
+538,0.0,0,0,2023-01-05,equity linked notes,affiliate sell
+539,0.0,0,0,2023-01-05,equity linked notes,inter-dealer
+540,11219.00389,9355,2097,2023-01-06,all securities,all securities
+541,4691.24026,2834,1421,2023-01-06,all securities,customer buy
+542,3459.70082,2318,1267,2023-01-06,all securities,customer sell
+543,261.2838,236,211,2023-01-06,all securities,affiliate buy
+544,334.94469,303,252,2023-01-06,all securities,affiliate sell
+545,2471.83432,3664,1243,2023-01-06,all securities,inter-dealer
+546,3345.73153,2163,725,2023-01-06,investment grade,all securities
+547,1279.49123,566,400,2023-01-06,investment grade,customer buy
+548,977.68996,508,328,2023-01-06,investment grade,customer sell
+549,166.667,100,90,2023-01-06,investment grade,affiliate buy
+550,178.123,104,87,2023-01-06,investment grade,affiliate sell
+551,743.76033,885,365,2023-01-06,investment grade,inter-dealer
+552,7228.71593,6526,1265,2023-01-06,high yield,all securities
+553,3163.92986,2151,955,2023-01-06,high yield,customer buy
+554,2163.6216,1491,851,2023-01-06,high yield,customer sell
+555,94.5168,135,120,2023-01-06,high yield,affiliate buy
+556,152.22169,196,162,2023-01-06,high yield,affiliate sell
+557,1654.42599,2553,831,2023-01-06,high yield,inter-dealer
+558,392.631,185,49,2023-01-06,convertible bonds,all securities
+559,184.237,81,41,2023-01-06,convertible bonds,customer buy
+560,190.042,82,39,2023-01-06,convertible bonds,customer sell
+561,0.0,0,0,2023-01-06,convertible bonds,affiliate buy
+562,4.6,3,3,2023-01-06,convertible bonds,affiliate sell
+563,13.752,19,13,2023-01-06,convertible bonds,inter-dealer
+564,0.0,0,0,2023-01-06,church bonds,all securities
+565,0.0,0,0,2023-01-06,church bonds,customer buy
+566,0.0,0,0,2023-01-06,church bonds,customer sell
+567,0.0,0,0,2023-01-06,church bonds,affiliate buy
+568,0.0,0,0,2023-01-06,church bonds,affiliate sell
+569,0.0,0,0,2023-01-06,church bonds,inter-dealer
+570,0.0,0,0,2023-01-06,equity linked notes,all securities
+571,0.0,0,0,2023-01-06,equity linked notes,customer buy
+572,0.0,0,0,2023-01-06,equity linked notes,customer sell
+573,0.0,0,0,2023-01-06,equity linked notes,affiliate buy
+574,0.0,0,0,2023-01-06,equity linked notes,affiliate sell
+575,0.0,0,0,2023-01-06,equity linked notes,inter-dealer
+576,11723.61018,10795,2276,2023-01-09,all securities,all securities
+577,5057.26415,3240,1594,2023-01-09,all securities,customer buy
+578,3896.2657,3216,1504,2023-01-09,all securities,customer sell
+579,243.94003,195,180,2023-01-09,all securities,affiliate buy
+580,321.68068,380,346,2023-01-09,all securities,affiliate sell
+581,2204.45962,3764,1348,2023-01-09,all securities,inter-dealer
+582,3503.91533,2472,781,2023-01-09,investment grade,all securities
+583,1513.0448,725,473,2023-01-09,investment grade,customer buy
+584,973.61585,554,344,2023-01-09,investment grade,customer sell
+585,111.036,90,82,2023-01-09,investment grade,affiliate buy
+586,150.698,162,144,2023-01-09,investment grade,affiliate sell
+587,755.52068,941,359,2023-01-09,investment grade,inter-dealer
+588,7586.84428,7646,1400,2023-01-09,high yield,all securities
+589,3347.47245,2398,1063,2023-01-09,high yield,customer buy
+590,2584.0282,2352,1078,2023-01-09,high yield,customer sell
+591,126.524,102,95,2023-01-09,high yield,affiliate buy
+592,169.43368,217,201,2023-01-09,high yield,affiliate sell
+593,1359.38594,2577,950,2023-01-09,high yield,inter-dealer
+594,340.535,159,44,2023-01-09,convertible bonds,all securities
+595,147.675,65,32,2023-01-09,convertible bonds,customer buy
+596,178.266,77,37,2023-01-09,convertible bonds,customer sell
+597,1.5,1,1,2023-01-09,convertible bonds,affiliate buy
+598,1.549,1,1,2023-01-09,convertible bonds,affiliate sell
+599,11.545,15,9,2023-01-09,convertible bonds,inter-dealer
+600,0.0,0,0,2023-01-09,church bonds,all securities
+601,0.0,0,0,2023-01-09,church bonds,customer buy
+602,0.0,0,0,2023-01-09,church bonds,customer sell
+603,0.0,0,0,2023-01-09,church bonds,affiliate buy
+604,0.0,0,0,2023-01-09,church bonds,affiliate sell
+605,0.0,0,0,2023-01-09,church bonds,inter-dealer
+606,0.0,0,0,2023-01-09,equity linked notes,all securities
+607,0.0,0,0,2023-01-09,equity linked notes,customer buy
+608,0.0,0,0,2023-01-09,equity linked notes,customer sell
+609,0.0,0,0,2023-01-09,equity linked notes,affiliate buy
+610,0.0,0,0,2023-01-09,equity linked notes,affiliate sell
+611,0.0,0,0,2023-01-09,equity linked notes,inter-dealer
+612,15138.76706,11939,2294,2023-01-10,all securities,all securities
+613,6442.11061,3589,1604,2023-01-10,all securities,customer buy
+614,5530.95377,3931,1625,2023-01-10,all securities,customer sell
+615,268.05769,232,191,2023-01-10,all securities,affiliate buy
+616,471.005,326,269,2023-01-10,all securities,affiliate sell
+617,2426.64,3861,1239,2023-01-10,all securities,inter-dealer
+618,4197.99777,2511,765,2023-01-10,investment grade,all securities
+619,1672.70173,654,417,2023-01-10,investment grade,customer buy
+620,1290.56263,637,410,2023-01-10,investment grade,customer sell
+621,132.176,93,81,2023-01-10,investment grade,affiliate buy
+622,225.643,122,106,2023-01-10,investment grade,affiliate sell
+623,876.91441,1005,386,2023-01-10,investment grade,inter-dealer
+624,9256.76388,8037,1406,2023-01-10,high yield,all securities
+625,3989.93204,2628,1104,2023-01-10,high yield,customer buy
+626,3508.96156,2691,1122,2023-01-10,high yield,customer sell
+627,124.63169,135,109,2023-01-10,high yield,affiliate buy
+628,237.612,199,158,2023-01-10,high yield,affiliate sell
+629,1395.62659,2384,802,2023-01-10,high yield,inter-dealer
+630,1083.3,427,53,2023-01-10,convertible bonds,all securities
+631,531.834,222,40,2023-01-10,convertible bonds,customer buy
+632,484.012,178,41,2023-01-10,convertible bonds,customer sell
+633,11.25,4,1,2023-01-10,convertible bonds,affiliate buy
+634,4.75,4,4,2023-01-10,convertible bonds,affiliate sell
+635,51.454,19,13,2023-01-10,convertible bonds,inter-dealer
+636,0.0,0,0,2023-01-10,church bonds,all securities
+637,0.0,0,0,2023-01-10,church bonds,customer buy
+638,0.0,0,0,2023-01-10,church bonds,customer sell
+639,0.0,0,0,2023-01-10,church bonds,affiliate buy
+640,0.0,0,0,2023-01-10,church bonds,affiliate sell
+641,0.0,0,0,2023-01-10,church bonds,inter-dealer
+642,0.0,0,0,2023-01-10,equity linked notes,all securities
+643,0.0,0,0,2023-01-10,equity linked notes,customer buy
+644,0.0,0,0,2023-01-10,equity linked notes,customer sell
+645,0.0,0,0,2023-01-10,equity linked notes,affiliate buy
+646,0.0,0,0,2023-01-10,equity linked notes,affiliate sell
+647,0.0,0,0,2023-01-10,equity linked notes,inter-dealer
+648,16864.29267,12881,2431,2023-01-11,all securities,all securities
+649,7100.78804,3963,1783,2023-01-11,all securities,customer buy
+650,6010.41981,4077,1720,2023-01-11,all securities,customer sell
+651,444.179,209,184,2023-01-11,all securities,affiliate buy
+652,542.63611,684,553,2023-01-11,all securities,affiliate sell
+653,2766.26971,3948,1272,2023-01-11,all securities,inter-dealer
+654,4585.52087,2661,835,2023-01-11,investment grade,all securities
+655,1685.0471,790,517,2023-01-11,investment grade,customer buy
+656,1522.14784,637,410,2023-01-11,investment grade,customer sell
+657,257.34,85,76,2023-01-11,investment grade,affiliate buy
+658,232.746,147,130,2023-01-11,investment grade,affiliate sell
+659,888.23992,1002,389,2023-01-11,investment grade,inter-dealer
+660,10760.91857,8933,1452,2023-01-11,high yield,all securities
+661,4864.00785,2958,1169,2023-01-11,high yield,customer buy
+662,3733.50682,2820,1189,2023-01-11,high yield,customer sell
+663,178.228,122,106,2023-01-11,high yield,affiliate buy
+664,292.08911,527,415,2023-01-11,high yield,affiliate sell
+665,1693.08679,2506,821,2023-01-11,high yield,inter-dealer
+666,842.585,352,63,2023-01-11,convertible bonds,all securities
+667,394.514,155,52,2023-01-11,convertible bonds,customer buy
+668,401.963,165,56,2023-01-11,convertible bonds,customer sell
+669,8.611,2,2,2023-01-11,convertible bonds,affiliate buy
+670,15.111,8,7,2023-01-11,convertible bonds,affiliate sell
+671,22.386,22,18,2023-01-11,convertible bonds,inter-dealer
+672,0.0,0,0,2023-01-11,church bonds,all securities
+673,0.0,0,0,2023-01-11,church bonds,customer buy
+674,0.0,0,0,2023-01-11,church bonds,customer sell
+675,0.0,0,0,2023-01-11,church bonds,affiliate buy
+676,0.0,0,0,2023-01-11,church bonds,affiliate sell
+677,0.0,0,0,2023-01-11,church bonds,inter-dealer
+678,0.0,0,0,2023-01-11,equity linked notes,all securities
+679,0.0,0,0,2023-01-11,equity linked notes,customer buy
+680,0.0,0,0,2023-01-11,equity linked notes,customer sell
+681,0.0,0,0,2023-01-11,equity linked notes,affiliate buy
+682,0.0,0,0,2023-01-11,equity linked notes,affiliate sell
+683,0.0,0,0,2023-01-11,equity linked notes,inter-dealer
+684,15090.35068,11587,2289,2023-01-12,all securities,all securities
+685,5967.32492,3500,1633,2023-01-12,all securities,customer buy
+686,5471.95343,3644,1517,2023-01-12,all securities,customer sell
+687,366.03365,247,211,2023-01-12,all securities,affiliate buy
+688,571.48503,343,293,2023-01-12,all securities,affiliate sell
+689,2713.55366,3853,1239,2023-01-12,all securities,inter-dealer
+690,4603.37872,2318,746,2023-01-12,investment grade,all securities
+691,1558.80988,546,366,2023-01-12,investment grade,customer buy
+692,1483.6991,636,375,2023-01-12,investment grade,customer sell
+693,223.539,103,88,2023-01-12,investment grade,affiliate buy
+694,372.09224,141,121,2023-01-12,investment grade,affiliate sell
+695,965.2385,892,363,2023-01-12,investment grade,inter-dealer
+696,8915.86697,7901,1403,2023-01-12,high yield,all securities
+697,3802.99489,2722,1161,2023-01-12,high yield,customer buy
+698,3270.08249,2367,1043,2023-01-12,high yield,customer sell
+699,140.49465,143,122,2023-01-12,high yield,affiliate buy
+700,197.73879,199,169,2023-01-12,high yield,affiliate sell
+701,1504.55616,2470,823,2023-01-12,high yield,inter-dealer
+702,571.58,280,69,2023-01-12,convertible bonds,all securities
+703,268.055,148,66,2023-01-12,convertible bonds,customer buy
+704,262.058,101,41,2023-01-12,convertible bonds,customer sell
+705,2.0,1,1,2023-01-12,convertible bonds,affiliate buy
+706,1.654,3,3,2023-01-12,convertible bonds,affiliate sell
+707,37.813,27,17,2023-01-12,convertible bonds,inter-dealer
+708,0.0,0,0,2023-01-12,church bonds,all securities
+709,0.0,0,0,2023-01-12,church bonds,customer buy
+710,0.0,0,0,2023-01-12,church bonds,customer sell
+711,0.0,0,0,2023-01-12,church bonds,affiliate buy
+712,0.0,0,0,2023-01-12,church bonds,affiliate sell
+713,0.0,0,0,2023-01-12,church bonds,inter-dealer
+714,0.0,0,0,2023-01-12,equity linked notes,all securities
+715,0.0,0,0,2023-01-12,equity linked notes,customer buy
+716,0.0,0,0,2023-01-12,equity linked notes,customer sell
+717,0.0,0,0,2023-01-12,equity linked notes,affiliate buy
+718,0.0,0,0,2023-01-12,equity linked notes,affiliate sell
+719,0.0,0,0,2023-01-12,equity linked notes,inter-dealer
+720,9533.91865,8657,2061,2023-01-13,all securities,all securities
+721,3697.5693,2498,1389,2023-01-13,all securities,customer buy
+722,3375.22083,2488,1290,2023-01-13,all securities,customer sell
+723,291.88619,188,170,2023-01-13,all securities,affiliate buy
+724,334.791,272,250,2023-01-13,all securities,affiliate sell
+725,1834.45133,3211,1167,2023-01-13,all securities,inter-dealer
+726,3009.72469,2019,667,2023-01-13,investment grade,all securities
+727,1093.27318,441,311,2023-01-13,investment grade,customer buy
+728,920.96763,624,349,2023-01-13,investment grade,customer sell
+729,144.34588,79,73,2023-01-13,investment grade,affiliate buy
+730,176.5,114,104,2023-01-13,investment grade,affiliate sell
+731,674.638,761,331,2023-01-13,investment grade,inter-dealer
+732,5514.16297,5591,1261,2023-01-13,high yield,all securities
+733,2223.81501,1865,990,2023-01-13,high yield,customer buy
+734,1994.38132,1417,838,2023-01-13,high yield,customer sell
+735,113.78931,94,83,2023-01-13,high yield,affiliate buy
+736,130.441,152,141,2023-01-13,high yield,affiliate sell
+737,1051.73633,2063,773,2023-01-13,high yield,inter-dealer
+738,800.557,323,67,2023-01-13,convertible bonds,all securities
+739,332.211,142,55,2023-01-13,convertible bonds,customer buy
+740,338.658,133,52,2023-01-13,convertible bonds,customer sell
+741,33.751,15,14,2023-01-13,convertible bonds,affiliate buy
+742,27.85,6,5,2023-01-13,convertible bonds,affiliate sell
+743,68.087,27,21,2023-01-13,convertible bonds,inter-dealer
+744,0.0,0,0,2023-01-13,church bonds,all securities
+745,0.0,0,0,2023-01-13,church bonds,customer buy
+746,0.0,0,0,2023-01-13,church bonds,customer sell
+747,0.0,0,0,2023-01-13,church bonds,affiliate buy
+748,0.0,0,0,2023-01-13,church bonds,affiliate sell
+749,0.0,0,0,2023-01-13,church bonds,inter-dealer
+750,0.0,0,0,2023-01-13,equity linked notes,all securities
+751,0.0,0,0,2023-01-13,equity linked notes,customer buy
+752,0.0,0,0,2023-01-13,equity linked notes,customer sell
+753,0.0,0,0,2023-01-13,equity linked notes,affiliate buy
+754,0.0,0,0,2023-01-13,equity linked notes,affiliate sell
+755,0.0,0,0,2023-01-13,equity linked notes,inter-dealer
+756,12032.80276,11498,2250,2023-01-17,all securities,all securities
+757,4559.05937,3071,1572,2023-01-17,all securities,customer buy
+758,4616.85322,3623,1509,2023-01-17,all securities,customer sell
+759,339.5468,249,221,2023-01-17,all securities,affiliate buy
+760,342.8695,253,222,2023-01-17,all securities,affiliate sell
+761,2174.47388,4302,1304,2023-01-17,all securities,inter-dealer
+762,3608.02881,2532,784,2023-01-17,investment grade,all securities
+763,1193.77691,665,455,2023-01-17,investment grade,customer buy
+764,1363.97429,694,429,2023-01-17,investment grade,customer sell
+765,209.81162,123,105,2023-01-17,investment grade,affiliate buy
+766,173.344,132,114,2023-01-17,investment grade,affiliate sell
+767,667.122,918,382,2023-01-17,investment grade,inter-dealer
+768,7592.48426,7233,1335,2023-01-17,high yield,all securities
+769,3057.90164,2247,1031,2023-01-17,high yield,customer buy
+770,2822.59594,2148,976,2023-01-17,high yield,customer sell
+771,128.73518,125,115,2023-01-17,high yield,affiliate buy
+772,168.9005,119,106,2023-01-17,high yield,affiliate sell
+773,1414.351,2594,874,2023-01-17,high yield,inter-dealer
+774,428.583,217,56,2023-01-17,convertible bonds,all securities
+775,190.191,98,46,2023-01-17,convertible bonds,customer buy
+776,220.048,101,46,2023-01-17,convertible bonds,customer sell
+777,1.0,1,1,2023-01-17,convertible bonds,affiliate buy
+778,0.625,2,2,2023-01-17,convertible bonds,affiliate sell
+779,16.719,15,11,2023-01-17,convertible bonds,inter-dealer
+780,0.0,0,0,2023-01-17,church bonds,all securities
+781,0.0,0,0,2023-01-17,church bonds,customer buy
+782,0.0,0,0,2023-01-17,church bonds,customer sell
+783,0.0,0,0,2023-01-17,church bonds,affiliate buy
+784,0.0,0,0,2023-01-17,church bonds,affiliate sell
+785,0.0,0,0,2023-01-17,church bonds,inter-dealer
+786,0.0,0,0,2023-01-17,equity linked notes,all securities
+787,0.0,0,0,2023-01-17,equity linked notes,customer buy
+788,0.0,0,0,2023-01-17,equity linked notes,customer sell
+789,0.0,0,0,2023-01-17,equity linked notes,affiliate buy
+790,0.0,0,0,2023-01-17,equity linked notes,affiliate sell
+791,0.0,0,0,2023-01-17,equity linked notes,inter-dealer
+792,15640.67972,13415,2393,2023-01-18,all securities,all securities
+793,6653.29789,4110,1730,2023-01-18,all securities,customer buy
+794,5536.77912,4216,1627,2023-01-18,all securities,customer sell
+795,394.52228,223,194,2023-01-18,all securities,affiliate buy
+796,474.9308,349,300,2023-01-18,all securities,affiliate sell
+797,2581.14963,4517,1298,2023-01-18,all securities,inter-dealer
+798,4508.18047,2522,813,2023-01-18,investment grade,all securities
+799,1944.80294,655,429,2023-01-18,investment grade,customer buy
+800,1427.00908,746,453,2023-01-18,investment grade,customer sell
+801,212.01528,85,76,2023-01-18,investment grade,affiliate buy
+802,264.322,126,114,2023-01-18,investment grade,affiliate sell
+803,660.03117,910,386,2023-01-18,investment grade,inter-dealer
+804,10049.03846,8972,1436,2023-01-18,high yield,all securities
+805,4309.82783,3273,1197,2023-01-18,high yield,customer buy
+806,3609.29136,2630,1061,2023-01-18,high yield,customer sell
+807,168.033,132,113,2023-01-18,high yield,affiliate buy
+808,208.1088,222,185,2023-01-18,high yield,affiliate sell
+809,1753.77746,2715,849,2023-01-18,high yield,inter-dealer
+810,659.019,307,68,2023-01-18,convertible bonds,all securities
+811,298.501,129,63,2023-01-18,convertible bonds,customer buy
+812,320.771,143,54,2023-01-18,convertible bonds,customer sell
+813,14.474,6,5,2023-01-18,convertible bonds,affiliate buy
+814,2.5,1,1,2023-01-18,convertible bonds,affiliate sell
+815,22.773,28,22,2023-01-18,convertible bonds,inter-dealer
+816,0.0,0,0,2023-01-18,church bonds,all securities
+817,0.0,0,0,2023-01-18,church bonds,customer buy
+818,0.0,0,0,2023-01-18,church bonds,customer sell
+819,0.0,0,0,2023-01-18,church bonds,affiliate buy
+820,0.0,0,0,2023-01-18,church bonds,affiliate sell
+821,0.0,0,0,2023-01-18,church bonds,inter-dealer
+822,0.0,0,0,2023-01-18,equity linked notes,all securities
+823,0.0,0,0,2023-01-18,equity linked notes,customer buy
+824,0.0,0,0,2023-01-18,equity linked notes,customer sell
+825,0.0,0,0,2023-01-18,equity linked notes,affiliate buy
+826,0.0,0,0,2023-01-18,equity linked notes,affiliate sell
+827,0.0,0,0,2023-01-18,equity linked notes,inter-dealer
+828,14618.80248,14230,2376,2023-01-19,all securities,all securities
+829,5363.83103,3073,1565,2023-01-19,all securities,customer buy
+830,5355.14507,4682,1628,2023-01-19,all securities,customer sell
+831,278.9132,224,188,2023-01-19,all securities,affiliate buy
+832,580.367,418,366,2023-01-19,all securities,affiliate sell
+833,3040.5462,5833,1487,2023-01-19,all securities,inter-dealer
+834,4881.081,2550,813,2023-01-19,investment grade,all securities
+835,1908.65955,736,427,2023-01-19,investment grade,customer buy
+836,1544.20175,631,392,2023-01-19,investment grade,customer sell
+837,137.736,122,97,2023-01-19,investment grade,affiliate buy
+838,367.556,192,169,2023-01-19,investment grade,affiliate sell
+839,922.9277,869,371,2023-01-19,investment grade,inter-dealer
+840,8571.7667,9500,1401,2023-01-19,high yield,all securities
+841,2844.11187,2138,1030,2023-01-19,high yield,customer buy
+842,3396.71713,3012,1118,2023-01-19,high yield,customer sell
+843,137.4972,99,88,2023-01-19,high yield,affiliate buy
+844,205.811,222,193,2023-01-19,high yield,affiliate sell
+845,1987.6295,4029,1053,2023-01-19,high yield,inter-dealer
+846,477.851,266,72,2023-01-19,convertible bonds,all securities
+847,214.961,144,70,2023-01-19,convertible bonds,customer buy
+848,233.009,94,50,2023-01-19,convertible bonds,customer sell
+849,3.65,2,2,2023-01-19,convertible bonds,affiliate buy
+850,6.97,3,3,2023-01-19,convertible bonds,affiliate sell
+851,19.261,23,13,2023-01-19,convertible bonds,inter-dealer
+852,0.0,0,0,2023-01-19,church bonds,all securities
+853,0.0,0,0,2023-01-19,church bonds,customer buy
+854,0.0,0,0,2023-01-19,church bonds,customer sell
+855,0.0,0,0,2023-01-19,church bonds,affiliate buy
+856,0.0,0,0,2023-01-19,church bonds,affiliate sell
+857,0.0,0,0,2023-01-19,church bonds,inter-dealer
+858,193.37446,1,1,2023-01-19,equity linked notes,all securities
+859,193.37446,1,1,2023-01-19,equity linked notes,customer buy
+860,0.0,0,0,2023-01-19,equity linked notes,customer sell
+861,0.0,0,0,2023-01-19,equity linked notes,affiliate buy
+862,0.0,0,0,2023-01-19,equity linked notes,affiliate sell
+863,0.0,0,0,2023-01-19,equity linked notes,inter-dealer
+864,10982.01844,10598,2156,2023-01-20,all securities,all securities
+865,3762.28607,2711,1441,2023-01-20,all securities,customer buy
+866,4508.77931,3340,1382,2023-01-20,all securities,customer sell
+867,239.84181,244,224,2023-01-20,all securities,affiliate buy
+868,331.62471,237,218,2023-01-20,all securities,affiliate sell
+869,2139.48655,4066,1268,2023-01-20,all securities,inter-dealer
+870,3202.87205,2030,698,2023-01-20,investment grade,all securities
+871,1029.84772,388,290,2023-01-20,investment grade,customer buy
+872,1264.15789,604,405,2023-01-20,investment grade,customer sell
+873,111.826,118,107,2023-01-20,investment grade,affiliate buy
+874,221.381,121,110,2023-01-20,investment grade,affiliate sell
+875,575.65944,799,347,2023-01-20,investment grade,inter-dealer
+876,6600.90625,6845,1318,2023-01-20,high yield,all securities
+877,2282.01348,2161,1058,2023-01-20,high yield,customer buy
+878,2646.58215,1845,880,2023-01-20,high yield,customer sell
+879,120.51581,125,116,2023-01-20,high yield,affiliate buy
+880,107.05371,112,104,2023-01-20,high yield,affiliate sell
+881,1444.74111,2602,875,2023-01-20,high yield,inter-dealer
+882,680.118,208,59,2023-01-20,convertible bonds,all securities
+883,329.977,95,48,2023-01-20,convertible bonds,customer buy
+884,297.765,85,42,2023-01-20,convertible bonds,customer sell
+885,7.5,1,1,2023-01-20,convertible bonds,affiliate buy
+886,3.19,4,4,2023-01-20,convertible bonds,affiliate sell
+887,41.686,23,12,2023-01-20,convertible bonds,inter-dealer
+888,0.0,0,0,2023-01-20,church bonds,all securities
+889,0.0,0,0,2023-01-20,church bonds,customer buy
+890,0.0,0,0,2023-01-20,church bonds,customer sell
+891,0.0,0,0,2023-01-20,church bonds,affiliate buy
+892,0.0,0,0,2023-01-20,church bonds,affiliate sell
+893,0.0,0,0,2023-01-20,church bonds,inter-dealer
+894,0.0,0,0,2023-01-20,equity linked notes,all securities
+895,0.0,0,0,2023-01-20,equity linked notes,customer buy
+896,0.0,0,0,2023-01-20,equity linked notes,customer sell
+897,0.0,0,0,2023-01-20,equity linked notes,affiliate buy
+898,0.0,0,0,2023-01-20,equity linked notes,affiliate sell
+899,0.0,0,0,2023-01-20,equity linked notes,inter-dealer
+900,11837.49003,9605,2223,2023-01-23,all securities,all securities
+901,4656.56455,2844,1502,2023-01-23,all securities,customer buy
+902,4472.40236,2831,1371,2023-01-23,all securities,customer sell
+903,231.22297,157,150,2023-01-23,all securities,affiliate buy
+904,400.9774,384,346,2023-01-23,all securities,affiliate sell
+905,2076.32274,3389,1175,2023-01-23,all securities,inter-dealer
+906,3922.22061,2318,753,2023-01-23,investment grade,all securities
+907,1411.43483,522,372,2023-01-23,investment grade,customer buy
+908,1262.18201,657,385,2023-01-23,investment grade,customer sell
+909,129.24297,73,72,2023-01-23,investment grade,affiliate buy
+910,256.138,136,121,2023-01-23,investment grade,affiliate sell
+911,863.2228,930,371,2023-01-23,investment grade,inter-dealer
+912,6866.03036,5998,1346,2023-01-23,high yield,all securities
+913,2874.73866,2157,1058,2023-01-23,high yield,customer buy
+914,2719.19535,1627,879,2023-01-23,high yield,customer sell
+915,97.88,83,77,2023-01-23,high yield,affiliate buy
+916,142.3394,245,222,2023-01-23,high yield,affiliate sell
+917,1031.87694,1886,751,2023-01-23,high yield,inter-dealer
+918,639.742,246,53,2023-01-23,convertible bonds,all securities
+919,299.306,111,46,2023-01-23,convertible bonds,customer buy
+920,281.315,104,44,2023-01-23,convertible bonds,customer sell
+921,4.1,1,1,2023-01-23,convertible bonds,affiliate buy
+922,2.5,3,3,2023-01-23,convertible bonds,affiliate sell
+923,52.521,27,14,2023-01-23,convertible bonds,inter-dealer
+924,0.0,0,0,2023-01-23,church bonds,all securities
+925,0.0,0,0,2023-01-23,church bonds,customer buy
+926,0.0,0,0,2023-01-23,church bonds,customer sell
+927,0.0,0,0,2023-01-23,church bonds,affiliate buy
+928,0.0,0,0,2023-01-23,church bonds,affiliate sell
+929,0.0,0,0,2023-01-23,church bonds,inter-dealer
+930,0.0,0,0,2023-01-23,equity linked notes,all securities
+931,0.0,0,0,2023-01-23,equity linked notes,customer buy
+932,0.0,0,0,2023-01-23,equity linked notes,customer sell
+933,0.0,0,0,2023-01-23,equity linked notes,affiliate buy
+934,0.0,0,0,2023-01-23,equity linked notes,affiliate sell
+935,0.0,0,0,2023-01-23,equity linked notes,inter-dealer
+936,14056.95045,10782,2319,2023-01-24,all securities,all securities
+937,5712.64228,3134,1642,2023-01-24,all securities,customer buy
+938,5066.91346,3095,1427,2023-01-24,all securities,customer sell
+939,316.87588,224,198,2023-01-24,all securities,affiliate buy
+940,445.668,299,253,2023-01-24,all securities,affiliate sell
+941,2514.85083,4030,1316,2023-01-24,all securities,inter-dealer
+942,4676.80929,2666,854,2023-01-24,investment grade,all securities
+943,2031.3468,868,566,2023-01-24,investment grade,customer buy
+944,1416.92779,677,403,2023-01-24,investment grade,customer sell
+945,158.462,72,68,2023-01-24,investment grade,affiliate buy
+946,237.449,140,111,2023-01-24,investment grade,affiliate sell
+947,832.6237,909,404,2023-01-24,investment grade,inter-dealer
+948,8064.04697,6843,1340,2023-01-24,high yield,all securities
+949,3232.63284,2097,996,2023-01-24,high yield,customer buy
+950,3053.03111,1901,922,2023-01-24,high yield,customer sell
+951,145.91388,150,128,2023-01-24,high yield,affiliate buy
+952,195.819,154,137,2023-01-24,high yield,affiliate sell
+953,1436.65013,2541,855,2023-01-24,high yield,inter-dealer
+954,689.609,260,61,2023-01-24,convertible bonds,all securities
+955,311.178,111,47,2023-01-24,convertible bonds,customer buy
+956,299.267,98,47,2023-01-24,convertible bonds,customer sell
+957,12.5,2,2,2023-01-24,convertible bonds,affiliate buy
+958,12.4,5,5,2023-01-24,convertible bonds,affiliate sell
+959,54.264,44,22,2023-01-24,convertible bonds,inter-dealer
+960,0.0,0,0,2023-01-24,church bonds,all securities
+961,0.0,0,0,2023-01-24,church bonds,customer buy
+962,0.0,0,0,2023-01-24,church bonds,customer sell
+963,0.0,0,0,2023-01-24,church bonds,affiliate buy
+964,0.0,0,0,2023-01-24,church bonds,affiliate sell
+965,0.0,0,0,2023-01-24,church bonds,inter-dealer
+966,0.0,0,0,2023-01-24,equity linked notes,all securities
+967,0.0,0,0,2023-01-24,equity linked notes,customer buy
+968,0.0,0,0,2023-01-24,equity linked notes,customer sell
+969,0.0,0,0,2023-01-24,equity linked notes,affiliate buy
+970,0.0,0,0,2023-01-24,equity linked notes,affiliate sell
+971,0.0,0,0,2023-01-24,equity linked notes,inter-dealer
+972,13655.74912,10271,2198,2023-01-25,all securities,all securities
+973,5489.91625,3018,1520,2023-01-25,all securities,customer buy
+974,5235.01444,3333,1488,2023-01-25,all securities,customer sell
+975,316.38697,204,169,2023-01-25,all securities,affiliate buy
+976,504.37379,345,308,2023-01-25,all securities,affiliate sell
+977,2110.05767,3371,1227,2023-01-25,all securities,inter-dealer
+978,4377.89245,2587,748,2023-01-25,investment grade,all securities
+979,1582.37322,652,405,2023-01-25,investment grade,customer buy
+980,1506.58242,794,417,2023-01-25,investment grade,customer sell
+981,163.006,91,77,2023-01-25,investment grade,affiliate buy
+982,283.60983,137,118,2023-01-25,investment grade,affiliate sell
+983,842.32098,913,403,2023-01-25,investment grade,inter-dealer
+984,7879.53726,6724,1322,2023-01-25,high yield,all securities
+985,3167.97099,2233,1032,2023-01-25,high yield,customer buy
+986,3176.57263,2096,972,2023-01-25,high yield,customer sell
+987,137.84397,106,85,2023-01-25,high yield,affiliate buy
+988,188.22797,203,185,2023-01-25,high yield,affiliate sell
+989,1208.92169,2086,770,2023-01-25,high yield,inter-dealer
+990,536.696,198,46,2023-01-25,convertible bonds,all securities
+991,251.366,75,37,2023-01-25,convertible bonds,customer buy
+992,206.686,93,35,2023-01-25,convertible bonds,customer sell
+993,14.032,6,6,2023-01-25,convertible bonds,affiliate buy
+994,29.65,2,2,2023-01-25,convertible bonds,affiliate sell
+995,34.962,22,12,2023-01-25,convertible bonds,inter-dealer
+996,0.0,0,0,2023-01-25,church bonds,all securities
+997,0.0,0,0,2023-01-25,church bonds,customer buy
+998,0.0,0,0,2023-01-25,church bonds,customer sell
+999,0.0,0,0,2023-01-25,church bonds,affiliate buy
