@@ -46,7 +46,7 @@ The section in the official documentation shows how to get there:
 - 3. Create an Account (Individual use) here: https://ews.finra.org/auth/registration-type?AppName=FINRA_GATEWAY&Forward_URL=https://gateway.finra.org/app?rcpRedirNum=1
 - 4. Head to the API Console Tab and click: "ADD API CREDENTIAL":
     <p align="center">
-        <img src="https://github.com/RobertHennings/FINRA_CLIENT/master/finra_client/src/Installation/API_Console.png"
+        <img src="https://raw.githubusercontent.com/RobertHennings/FINRA_CLIENT/master/finra_client/src/Installation/API_Console.png"
             width="800"/>
     </p>
 - 5. Apply user settings to the API (name) and the selected type. The available dropdown types depend in the Account type, i.e. am individual account hat the options: "MOCK" or "PUBLIC".
