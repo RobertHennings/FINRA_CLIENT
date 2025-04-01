@@ -563,7 +563,7 @@ Or provide the full path directly:
 ```zsh
 python3 -m venv /path/to/new/virtual/name_of_your_virtual_environment
 ```
-### 7.2 Activating a virtual environment
+### 8.2 Activating a virtual environment
 Activate the virtual environment by:
 ```zsh
 source /path/to/new/virtual/name_of_your_virtual_environment/bin/activate
@@ -572,12 +572,12 @@ or move into the virtual environment directly and execute:
 ```zsh
 source /bin/activate
 ```
-### 7.3 Deactivating a virtual environment
+### 8.3 Deactivating a virtual environment
 Deactivate the virtual environment from anywhere via:
 ```zsh
 deactivate
 ```
-### 7.4 Downloading dependencies inside the virtual environment
+### 8.4 Downloading dependencies inside the virtual environment
 Move to the virtual environment or create a new one, activate it and install the dependencies from the requirements.txt file via:
 ```zsh
 pip install -r requirements.txt
